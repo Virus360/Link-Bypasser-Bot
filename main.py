@@ -4,7 +4,7 @@ import os
 
 # bot
 TOKEN = os.environ.get("TOKEN", "")
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(5732502224:AAGfaHvGgetjjxjxbcNZ6ezGRkEC-bIpcQo)
 
 
 # start
